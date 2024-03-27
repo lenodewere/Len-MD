@@ -1,8 +1,8 @@
 {
   "name":"LENNIE-W",
-  "description":"An easy and simple WhatsApp bot developed by Lenox Were",
+  "description":"A simple WhatsApp bot made and developed by Were Lenox",
   "keywords":["bot","node","baileys","whatsapp"],
-  
+  "logo":"https://telegra.ph/file/dfccbf12397757c321ac4.jpg",
   "repository":"https://github.com/lenodewere/Lennie-W",
   "succes_url":"/",
   "stack":"container",
@@ -12,12 +12,6 @@
       "description":"choose your prefix of bot",
       "value":".",
       "required":true
-    },
-
-    "WELCOME": {
-      "description": "put 'false' or 'true' to enable & disable WELCOME ",
-      "value": "true",
-      "required" :false
     },
     "AUTO_READ_STATUS":
     {
@@ -39,18 +33,18 @@
     }
     ,
     "BOT_NAME" : {
-
+       
       "description":"put A name for your bot",
-      "value":"Lenox Were",
+      "value":"FLASH-MD",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
-
-      "description":"add one or many link for your bot menu  ; eg : url1,url2,url3...",
+    
+      "description":"add one or many link for your bot menu  ; eg : url1,url2 etc.",
       "value":"https://telegra.ph/file/dfccbf12397757c321ac4.jpg",
       "required":false
-
+       
      },
     "PUBLIC_MODE":
     {
@@ -58,7 +52,7 @@
       "value":"yes",
       "required":false
     }
-        ,
+	,
     "HEROKU_API_KEY": {
     "description": "insert your heroku api-key (this is optionnal)",
      "required" :false
@@ -67,7 +61,7 @@
     "description": "insert your heroku APP NAME (this is optionnal)",
      "required" :false
     }  
-          ,
+	  ,
     "SESSION_ID":
     {
       "description":"put your session ID , make sure it starts with eyJub2I...",   
@@ -77,17 +71,17 @@
     },
     "OWNER_NAME":
     {
-
+    
     "desc": "Your Name",
     "required": false,
-    "value": "Lenox Were"
+    "value": "WERE LENOX"
   },
     "OWNER_NUMBER":
   {
-
-    "desc": "Your number , dont put '+' and put you area code(exemple of togo '254')",
+    
+    "desc": "Your number , dont put '+' and put you area code(exemple of Kenya '254')",
     "required":false,
-    "value": "254715343733"
+    "value": "2547153437xx"
   },
     "WARN_COUNT":
   {
@@ -102,18 +96,18 @@
     "value": "yes"
   },
   "PRESENCE":{
-    "description":"Mark your presence: 1 to indicate that you are online. 2 to indicate that you are typing a message. 3 to indicate that you are recording an audio. Or leave the field blank to indicate your real state.",
+    "description":"Mark your presence: 1 to indicate that you are online even if you are not. 2 for typing a message. 3 for recording an audio. Or leave it blank",
     "value":"",
     "required": false
+  }  
   },
-    
-
+ 
   "formation": {
-                "worker": {
-                        "quantity": 1,
-                        "size": "basic"
-                }
-        },
+		"worker": {
+			"quantity": 1,
+			"size": "basic"
+		}
+	},
 
   "addons":[
     {
