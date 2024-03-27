@@ -11,9 +11,12 @@
 
 **✨DEPLOY ON HEROKU✨**
    - ***Click [`FORK`](https://github.com/lenodewere/Lennie-W) and `Star ⭐ Repository` for Courage.***
-   - ***`Get Session` by [`SCANING QR`](https://lennie-W-qr.onrender.com) Or [`SCANING QR`](https://lennieqr-e26ec3fe85b7.herokuapp.com/)
+   - ***`Get Session` by [`SCANING QR`](https://lennie-W-qr.onrender.com)
+     Or
+[`SCANING QR SERVER TWO`](https://lennieqr-e26ec3fe85b7.herokuapp.com/)
  
-2.[`PAIRING CODE`](https://lenniepairer-c19c33161137.herokuapp.com/pair) Then `Go-to Whatapp>Three dots>Linked Devices`***
+
+2. [`PAIRING CODE`](https://lenniepairer-c19c33161137.herokuapp.com/pair) Then `Go-to Whatapp>Three dots>Linked Devices`***
    - You will get a session ID in WhatsApp, copy the ID only.
    - **If you don't have an account on [Heroku](https://signup.heroku.com/), [create an account now](https://signup.heroku.com/).**
    - ***Now [DEPLOY](https://dashboard.heroku.com/new?template=https://github.com/lenodewere/Lennie-W).***
