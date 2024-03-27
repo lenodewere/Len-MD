@@ -30,4 +30,5 @@ Enjoy the diverse features of the Lennoe -W  to enhance your conversations and m
 
 - [**Instagram**](https://instagram.com/im_lennie)
 - [**WhatsApp**](https://wa.me/254715343733)
-
+- [**Facebook**](
+https://www.facebook.com/lenode.khns) 
