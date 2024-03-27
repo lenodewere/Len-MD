@@ -1,5 +1,5 @@
- <h1 align="center"> FLASH-MD </h1>
-<p align="center"> FLASH-MD, A Simple WhatsApp user BOT, Created by France King.
+ <h1 align="center"> LENNIE-W </h1>
+<p align="center"> LENNIE W, A Simple WhatsApp user BOT, Created by Lenox Were.
 </p>
 
 
@@ -20,16 +20,16 @@
 
 ## Contributions
 
-Contributions to Flash-Md are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
+Contributions to Lenny-W are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
 
 ## License
 
-The FLASH-MD is released under the [MIT License](https://opensource.org/licenses/MIT).
+The LENNIE W is released under the [MIT License](https://opensource.org/licenses/MIT).
 
 Enjoy the diverse features of the Flash-Md  to enhance your conversations and make your WhatsApp experience more interesting!
 
 ## Developer:
 
-- [**Instagram**](https://instagram.com/france.king1)
-- [**WhatsApp**](https://wa.me/254757835036)
+- [**Instagram**](https://instagram.com/im_lennie)
+- [**WhatsApp**](https://wa.me/254715343733)
 
