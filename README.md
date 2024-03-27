@@ -10,8 +10,14 @@
 ### HOW TO DEPLOY ###
 
 **✨DEPLOY ON HEROKU✨**
+   
+ # if scan qr does not work please try pairing code it is currently working
+ `we are currently working on it`
+
+ `Then`
    - ***Click [`FORK`](https://github.com/lenodewere/Lennie-W) and `Star ⭐ Repository` for Courage.***
-   - ***`Get Session` by [`SCANING QR`](https://lennie-W-qr.onrender.com)
+   
+   1.  ***`Get Session` by [`SCANING QR`](https://lennie-W-qr.onrender.com)
      Or
 [`SCANING QR SERVER TWO`](https://lennieqr-e26ec3fe85b7.herokuapp.com/)
  
