@@ -1,5 +1,5 @@
- <h1 align="center"> ༻꫞ 𝐋𝐄𝐍𝐍𝐈𝐄 𝐖 ꫞༺  </h1>
-<p align="center"> LENNIE W, A Simple WhatsApp user BOT, Created by Lenox Were.
+ <h1 align="center"> LENNIE-W  </h1>
+<p align="center"> LENNIE W, A Simple WhatsApp user BOT, Created by Lenox Were,to help you enhance your interaction with your WhatsApp.
 </p>
 
 
@@ -7,11 +7,11 @@
 
 
 
-### HOW TO DEPLOY ###
+### DEPLOYMENT ###
 
-**✨DEPLOY ON HEROKU✨**
+**✨DEPLOY ON HEROKU **
    
- # ❗if scan qr does not work please try pairing code it is currently working❗
+ # ❗if Scan QR doesn't work, please try **pairing code** it's currently working❗
  `we are currently working on it`
 
  `Then`
@@ -23,7 +23,7 @@
  
 
 2. [`PAIRING CODE`](https://lenniepairer-c19c33161137.herokuapp.com/pair) Then `Go-to Whatapp>Three dots>Linked Devices`***
-   - You will get a session ID in WhatsApp, copy the ID only.
+   - You will get a session ID in WhatsApp, copy the ID only & link your WhatsApp.
    - **If you don't have an account on [Heroku](https://signup.heroku.com/), [create an account now](https://signup.heroku.com/).**
    - ***Now [DEPLOY](https://dashboard.heroku.com/new?template=https://github.com/lenodewere/Lennie-W).***
 
