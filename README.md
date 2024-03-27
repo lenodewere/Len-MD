@@ -1,4 +1,10 @@
- <h1 align="center"> LENNIE-W </h1>
+ <h1 align="center"> 
+█░░ █▀ █▄░█ ▄▀▄ █░█
+█░░ █▀ █░▀█ █░█ ▄▀▄
+▀▀▀ ▀▀ ▀░░▀ ░▀░ ▀░▀
+█░░░█
+█░█░█
+░▀░▀░ </h1>
 <p align="center"> LENNIE W, A Simple WhatsApp user BOT, Created by Lenox Were.
 </p>
 
