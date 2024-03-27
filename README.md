@@ -4,8 +4,6 @@
 
 
 
-<img src="https://telegra.ph/file/3f985014b51b3cfbfe.jpg" width="700" height="300"/>
-
 
 
 ### Setup
