@@ -11,7 +11,7 @@
 
 **✨DEPLOY ON HEROKU✨**
    
- # if scan qr does not work please try pairing code it is currently working
+ # ❗if scan qr does not work please try pairing code it is currently working❗
  `we are currently working on it`
 
  `Then`
