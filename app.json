@@ -33,7 +33,7 @@
     ,
     "BOT_NAME" : {
        
-      "description":"put A name for your bot",
+      "description":"put a name for your bot",
       "value":"LENNIE-W",
       "required":false
 
@@ -64,7 +64,7 @@
     "SESSION_ID":
     {
       "description":"put your session ID , make sure it starts with eyJub2I...",   
-      "value":"",
+      "value":"yes",
       "required": true
 
     },
