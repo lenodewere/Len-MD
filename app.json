@@ -1,5 +1,6 @@
 {
   "name": " lennie-w V1.0.0 ",
+  "description": "This is a WhatsApp Bot created by LENOX WERE to enhance your interaction with WhatsApp",
   "success_url": "/lennie/",
   "app_url": "/qr/",
   
@@ -31,7 +32,7 @@
       "required" :false,    
       "value": "https://telegra.ph/file/d5b1c3544fedc23e11a06.jpg"
     }, 
-    "TZ": {
+    "TIME ZONE": {
       "description": "Put TIME_ZONE according to your location",
       "required" :false,    
       "value": "Africa/Nairobi"
