@@ -2,7 +2,6 @@
   "name":"LENNIE-W",
   "description":"A simple WhatsApp bot made and developed by Were Lenox",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/dfccbf12397757c321ac4.jpg",
   "repository":"https://github.com/lenodewere/Lennie-W",
   "succes_url":"/",
   "stack":"container",
@@ -35,7 +34,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"FLASH-MD",
+      "value":"LENNIE-W",
       "required":false
 
     } ,
