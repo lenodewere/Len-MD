@@ -1,6 +1,6 @@
 {
   "name": "Lennie-W v1.0.0",
-  "description": "I am Lennie-W, A Whatsapp Bot built in NodeJs & JavaScript to make experience better on WhatsApp,
+  "description": "I am Lennie-W, A Whatsapp Bot built in NodeJs to make experience better on WhatsApp,
   "keywords": ["whatsappbot", "lennie-W", "lennie W bot", "Lennie-W", "LennieWWhatsappBot", "LennieWaBot","LennieW","Lennie W Whatsapp Bot","multi device"],
   "success_url": "/Lennie/",
   "app_url": "/qr/",
