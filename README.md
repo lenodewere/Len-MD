@@ -1,6 +1,7 @@
  <h1 align="center"> ༻꫞ 𝐿𝐸𝑁𝑂𝑋 𝑊 ꫞༺  </h1>
 <p align="center"> LENNIE W, A Simple WhatsApp user BOT, Created by Lenox Were.
 </p>
+![InShot_20240320_143623814](https://github.com/lenodewere/Lennie-W/assets/104990838/79d3e684-60ce-4908-889b-0b0ead55a9ee)
 
 
 
@@ -24,7 +25,7 @@ Contributions to Lenny-W are welcome! If you have ideas for new features, improv
 
 The LENNIE W is released under the [Apache License](                        http://www.apache.org/licenses/).
 
-Enjoy the diverse features of the Lennoe -W  to enhance your conversations and make your WhatsApp experience more interesting!
+Enjoy the diverse features of the Lennie-W  to enhance your conversations and make your WhatsApp experience more interesting!
 
 ## Developer:
 
