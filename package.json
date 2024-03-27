@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "s": "node lennie.js",
-    "flashmd": "pm2 start flash.js --attach --max-memory-restart 490M",
+    "lennieW": "pm2 start lennie.js --attach --max-memory-restart 490M",
     "c": "tsc"
   },
   "keywords": [
