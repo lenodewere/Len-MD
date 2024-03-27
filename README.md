@@ -1,4 +1,4 @@
- <h1 align="center"> ༻꫞ 𝐿𝐸𝑁𝑂𝑋 𝑊 ꫞༺  </h1>
+ <h1 align="center"> ༻꫞ 𝐋𝐄𝐍𝐍𝐈𝐄 𝐖 ꫞༺  </h1>
 <p align="center"> LENNIE W, A Simple WhatsApp user BOT, Created by Lenox Were.
 </p>
 
@@ -20,6 +20,7 @@
 ## Contributions
 
 Contributions to Lenny-W are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
+Feel free to share with me. 
 
 ## License
 
