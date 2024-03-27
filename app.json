@@ -106,11 +106,7 @@
     "value":"",
     "required": false
   },
-    "TIME ZONE": {
-      "description": "Put TIME_ZONE according to your location",
-      "required" :false,    
-      "value": "Afric/Nairobi"
-    },  
+    
 
   "formation": {
                 "worker": {
