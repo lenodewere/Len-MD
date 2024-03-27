@@ -6,7 +6,7 @@
 
 
 
-### Setup
+### HOW TO DEPLOY ###
 
 **✨DEPLOY ON HEROKU✨**
    - ***Click [`FORK`](https://github.com/lenodewere/Lennie-W) and `Star ⭐ Repository` for Courage.***
@@ -33,3 +33,4 @@ Enjoy the diverse features of the Lennoe -W  to enhance your conversations and m
 - [**Facebook**](
 https://www.facebook.com/lenode.khns) 
 - [**Twitter🐦**](https://x.com/official_lenny6?t=uVZkO-nyi1DoPSzyn6KgxQ&s=09) 
+## Don't forget to FORK ##
