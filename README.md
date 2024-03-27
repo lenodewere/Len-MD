@@ -24,9 +24,9 @@ Contributions to Lenny-W are welcome! If you have ideas for new features, improv
 
 ## License
 
-The LENNIE W is released under the [MIT License](https://opensource.org/licenses/MIT).
+The LENNIE W is released under the [Apache License](                        http://www.apache.org/licenses/).
 
-Enjoy the diverse features of the Flash-Md  to enhance your conversations and make your WhatsApp experience more interesting!
+Enjoy the diverse features of the Lennoe -W  to enhance your conversations and make your WhatsApp experience more interesting!
 
 ## Developer:
 
