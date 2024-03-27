@@ -8,7 +8,7 @@
 
 ### Setup
 
-**📌DEPLOY ON HEROKU**
+**✨DEPLOY ON HEROKU✨**
    - ***Click [`FORK`](https://github.com/franceking1/Flash-Md/fork) and `Star ⭐ Repository` for Courage.***
    - ***`Get Session` by [`SCANING QR`](https://flash-md-qr.onrender.com) Or [`PAIRING CODE`](https://flashmd-session-5fea4d73011f.herokuapp.com/pair) Then `Go-to Whatapp>Three dots>Linked Devices`***
    - You will get a session ID in WhatsApp, copy the ID only.
