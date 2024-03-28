@@ -5,6 +5,12 @@
 <u> ❤𝐌𝐀𝐃𝐄 𝐁𝐘 𝐋𝐄𝐍𝐎𝐗-𝐖❤ </u> </h1>
 
 <p align="center">
+  <a href="https://github.com/lenodewere/Lennie-W">
+    <img alt="Lennie-W" height="300" src="https://telegra.ph/file/758083800a621d384a99b.jpg">
+  </a>
+</p>
+
+<p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=LENNIE+W+WHATSAPP+BOT" alt="">
 </p>
    
