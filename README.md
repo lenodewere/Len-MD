@@ -53,11 +53,11 @@ Enjoy the diverse features of the Lennie-W  to enhance your conversations and ma
 
 ## Developer:
 
-- [**Instagram**](https://www.instagram.com/im_lennie_?igsh=ZWhvaDh6emM0Yjg1)
+- [**Instagram**](https://www.instagram.com/im_lennie)
 - [**WhatsApp**](https://wa.me/254715343733)
 - [**Facebook**](
 https://www.facebook.com/lenode.khns) 
-- [**Twitter🐦**](https://x.com/official_lenny6?t=uVZkO-nyi1DoPSzyn6KgxQ&s=09) 
+- [**Twitter🐦**](https://x.com/official_lenny6) 
 
 <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=THANK+YOU+FOR+SUPPORT🙏" alt="">
