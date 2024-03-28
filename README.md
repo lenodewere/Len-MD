@@ -1,8 +1,8 @@
  <h1 align="center"> LENNIE-W  </h1>
 <p align="center"> LENNIE W, A Simple WhatsApp user BOT, Created by Lenox Were,to help you enhance your interaction with your WhatsApp.
 </p>
-
-<u> ❤𝐌𝐀𝐃𝐄 𝐁𝐘 𝐋𝐄𝐍𝐎𝐗-𝐖❤ </u>
+<h1 align="center">
+<u> ❤𝐌𝐀𝐃𝐄 𝐁𝐘 𝐋𝐄𝐍𝐎𝐗-𝐖❤ </u> </h1>
 
 <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=LENNIE+W+WHATSAPP+BOT" alt="">
