@@ -1,6 +1,6 @@
 {
   "name": "LENNIE-W",
-  "version": "2.0.0",
+  "version": "1.0.0",
   "description": "",
   "main": "lennie.js",
   "scripts": {
@@ -17,7 +17,7 @@
     "whatsapp-bot",
     "lenniew6"
   ],
-  "author": "Lenox Were",
+  "author": "Lenodewere lennie",
   "license": "Apache",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
