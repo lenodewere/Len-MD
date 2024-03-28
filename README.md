@@ -4,6 +4,10 @@
 
 <u> ❤𝐌𝐀𝐃𝐄 𝐁𝐘 𝐋𝐄𝐍𝐎𝐗-𝐖❤ </u>
 
+<p align="center">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=LENNIE+W+WHATSAPP+BOT" alt="">
+</p>
+   
 #
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-Lenox-red.svg?style=for-the-badge&logo=github"></a>
 </p>
