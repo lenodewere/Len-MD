@@ -9,7 +9,7 @@
 
 ### DEPLOYMENT ###
 
-**✨DEPLOY ON HEROKU **
+✨DEPLOY ON HEROKU 
    
  # ❗if Scan QR doesn't work, please try **pairing code** it's currently working❗
  `we are currently working on it`
@@ -31,7 +31,6 @@
 ## Contributions
 
 Contributions to Lenny-W are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
-Feel free to share with me. 
 
 ## License
 
@@ -46,4 +45,3 @@ Enjoy the diverse features of the Lennie-W  to enhance your conversations and ma
 - [**Facebook**](
 https://www.facebook.com/lenode.khns) 
 - [**Twitter🐦**](https://x.com/official_lenny6?t=uVZkO-nyi1DoPSzyn6KgxQ&s=09) 
-## Don't forget to FORK ##
