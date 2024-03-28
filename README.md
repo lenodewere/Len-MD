@@ -52,3 +52,7 @@ Enjoy the diverse features of the Lennie-W  to enhance your conversations and ma
 - [**Facebook**](
 https://www.facebook.com/lenode.khns) 
 - [**Twitter🐦**](https://x.com/official_lenny6?t=uVZkO-nyi1DoPSzyn6KgxQ&s=09) 
+
+<p align="center">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=THANK+YOU+FOR+SUPPORT🙏" alt="">
+</p>
