@@ -1,9 +1,11 @@
 {
   "name": " lennie-w V1.0.0 ",
   "description": "This is a WhatsApp Bot created by LENOX WERE to enhance your interaction with WhatsApp contributed by Venocyber admin",
- "logo": "https://telegra.ph/file/758083800a621d384a99b.jpg",
+
+  "logo": "https://telegra.ph/file/758083800a621d384a99b.jpg",
   "keywords": ["whatsappbot", "LennieW", "Lennie W bot", "Lennie-W",
-  "success_url": "/lennie/",
+ 
+    "success_url": "/lennie/",
   "app_url": "/qr/",
   
   "env": {
