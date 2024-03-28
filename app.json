@@ -1,6 +1,6 @@
 {
   "name": " lennie-w V1.0.0 ",
-  "description": "This is a WhatsApp Bot created by LENOX WERE to enhance your interaction with WhatsApp",
+  "description": "This is a WhatsApp Bot created by LENOX WERE to enhance your interaction with WhatsApp contributed by Venocyber admin https://github.com/kingjux",
   "success_url": "/lennie/",
   "app_url": "/qr/",
   
@@ -30,7 +30,7 @@
     "IMAGE": {
       "description": "Image for bot",
       "required" :false,    
-      "value": "https://telegra.ph/file/d5b1c3544fedc23e11a06.jpg"
+      "value": "https://telegra.ph/file/758083800a621d384a99b.jpg"
     }, 
     "TIME ZONE": {
       "description": "Put TIME_ZONE according to your location",
@@ -121,12 +121,12 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "Lennie W",
+      "value": "Venocyber Admin",
       "required": false 
     },
     "PACK_AUTHER": {
       "description": "Put Sticker Author_Name.",
-      "value": "",
+      "value": "Lennie W",
       "required": false 
     }
   }, 
