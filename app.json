@@ -35,7 +35,7 @@
     ,
     "BOT_NAME" : {
 
-      "description":"put A name for your bot",
+      "description":"put a name for your bot",
       "value":"𝐋𝚵𝚴𝚴𝚰𝚵 𝐖",
       "required":false
 
@@ -56,10 +56,10 @@
         ,
     "HEROKU_API_KEY": {
     "description": "insert your heroku api-key (this is optionnal)",
-     "required" :false
+     "required" :true
     },
    "HEROKU_APP_NAME": {
-    "description": "insert your herok🌃APP NAME (this is optionnal)",
+    "description": "insert your heroku APP NAME (this is optionnal)",
      "required" :false
     }  
           ,
