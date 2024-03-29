@@ -25,7 +25,7 @@
 
 ✨DEPLOY ON HEROKU 
    
- # ❗if Scan QR doesn't work, please try **pairing code** it's currently working❗
+ # ❗USE PAIR CODE IF QR CODE ISN'T WORKING❗
  `we are currently working on it`
 
  `Then`
