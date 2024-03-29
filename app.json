@@ -55,11 +55,11 @@
     }
         ,
     "HEROKU_API_KEY": {
-    "description": "insert your heroku api-key (this is optionnal)",
+    "description": "insert your heroku api-key (this is optional)",
      "required" :true
     },
    "HEROKU_APP_NAME": {
-    "description": "insert your heroku APP NAME (this is optionnal)",
+    "description": "insert your heroku APP NAME (this is optional)",
      "required" :false
     }  
           ,
@@ -74,13 +74,13 @@
     {
 
     "desc": "Your Name",
-    "required": false,
+    "required": true,
     "value": "Venocyber Admin🌷🌃"
   },
     "OWNER_NUMBER":
   {
 
-    "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
+    "desc": "Your number , dont put '+' and put you area code(exemple of Kenya '254')",
     "required":false,
     "value": "255698101622"
   },
