@@ -55,11 +55,11 @@
     }
         ,
     "HEROKU_API_KEY": {
-    "description": "insert your heroku api-key (this is optional)",
+    "description": "insert your heroku api-key (this is not optional)",
      "required" :true
     },
    "HEROKU_APP_NAME": {
-    "description": "insert your heroku APP NAME (this is optional)",
+    "description": "insert your heroku APP NAME (this is not optional)",
      "required" :false
     }  
           ,
@@ -88,17 +88,17 @@
   {
     "desc": "this is the limit of warn for warning commandes",
     "required": false,
-    "value": "4"
+    "value": "3"
   },
   "STARTING_BOT_MESSAGE":
   {
     "description": "if you don't want startting-bot-message put no else put yes",
     "required": true,
-    "value": "yes"
+    "value": "no"
   },
   "PRESENCE":{
-    "description":"Mark your presence: 1 to indicate that you are online even if you are not. 2 to indicate that you are currently typing a message. 3 to indicate that you are currently recording an audio. Or leave the field blank to indicate your real state.",
-    "value":"",
+    "description":"Mark your presence: 1 - online even if you are not. 2 - typing a message. 3 - recording an audio. Or leave the field blank to indicate your real state.",
+    "value":"1",
     "required": false
   }  
   },
