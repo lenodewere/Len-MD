@@ -33,7 +33,7 @@
    
    1.  ***`Get Session` by [`SCANING QR`](https://lennie-W-qr.onrender.com)
      Or
-[`SCANING QR SERVER TWO`](https://lennieqr-e26ec3fe85b7.herokuapp.com/)
+[`SCANING QR SERVER TWO`](https://lennieqrb-a0a1bd0f905e.herokuapp.com/)
  
 
 2. [`PAIRING CODE`](https://lenniepairer-c19c33161137.herokuapp.com/pair) Then `Go-to Whatapp>Three dots>Linked Devices`***
