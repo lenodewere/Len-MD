@@ -61,5 +61,5 @@ https://www.facebook.com/lenode.khns)
 - [**Twitter🐦**](https://x.com/official_lenny6) 
 
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=THANK+YOU+FOR+SUPPORT🙏" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=THANK+YOU+FOR+SUPPORT" alt="">
 </p>
