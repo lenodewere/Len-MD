@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/lenodewere/Lennie-W">
-    <img alt="Lennie-W" height="300" src="https://telegra.ph/file/758083800a621d384a99b.jpg">
+    <img alt="Lennie-W" height="250x300" src="https://telegra.ph/file/758083800a621d384a99b.jpg">
   </a>
 </p>
 
