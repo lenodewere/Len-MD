@@ -1,5 +1,5 @@
 {
-  "name": "LENNIE-W",
+  "name": "LEN-MD",
   "version": "1.0.0",
   "description": "",
   "main": "lennie.js",
@@ -12,12 +12,12 @@
   "keywords": [
     "bot",
     "Baileys",
-    "Lennie-W",
+    "Len MD",
     "whatsapp",
     "whatsapp-bot",
     "venocyberAdmin"
   ],
-  "author": "Lenodewere Lennie",
+  "author": "Lennie",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
