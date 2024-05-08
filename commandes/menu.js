@@ -43,7 +43,7 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-╭────✧LENNIE-W────◆
+╭────✧LEN MD────◆
 ┃❃╭──────────────
 ┃❃│ Prefix : ${s.PREFIXE} 
 ┃❃│ User :  ${s.OWNER_NAME}
@@ -55,11 +55,11 @@ const date = moment().format('DD/MM/YYYY');
 ┃❃│ Ram : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())} 
 ┃❃│ Uptime : ${runtime(process.uptime())} 
 ┃❃╰───────────────
-╰─────✧The-GOAT✧─────◆ \n\n`;
+╰─────✧THE POET✧─────◆ \n\n`;
 
   let menuMsg=`  
 
-*FLASH-MD COMMANDS :*
+*LEN-MD COMMANDS :*
 ◇                             ◇
 `;
 
@@ -77,7 +77,7 @@ const date = moment().format('DD/MM/YYYY');
 ◇            ◇
 *————— ★ —————*
 
-  *📌©²⁰²⁴Lenodewere Lennie*                                         
+  *©LENOX WERE*                                         
 *╰═════════════⊷*
 `;
 
