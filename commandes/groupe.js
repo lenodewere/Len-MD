@@ -15,14 +15,14 @@ const { default: axios } = require('axios');
 
 
 
-france({ nomCom: "tagall", categorie: 'Group', reaction: "📣" }, async (dest, zk, commandeOptions) => {
+france({ nomCom: "tagall", categorie: 'Group', reaction: "👥" }, async (dest, zk, commandeOptions) => {
 
   const { ms, repondre, arg, verifGroupe, nomGroupe, infosGroupe, nomAuteurMessage, verifAdmin, superUser } = commandeOptions
 
 
  
 
-  if (!verifGroupe) { repondre("✋🏿 ✋🏿this command is reserved for groups ❌"); return; }
+  if (!verifGroupe) { repondre("✋🏿 this command is reserved for groups 🔐"); return; }
   if (!arg || arg === ' ') {
   mess = 'Aucun Message'
   } else {
@@ -31,7 +31,7 @@ france({ nomCom: "tagall", categorie: 'Group', reaction: "📣" }, async (dest, 
   let membresGroupe = verifGroupe ? await infosGroupe.participants : ""
   var tag = ""; 
   tag += `========================\n  
-        🌟 *LENNIE-W* 🌟
+        🌟 *LEN MD* 🌟
 ========================\n
 👥 Group : ${nomGroupe} 🚀 
 👤 Author : *${nomAuteurMessage}* 👋 
@@ -78,7 +78,7 @@ Click Here To Join :${lien}`
 
 });
 /** *nommer un membre comme admin */
-france({ nomCom: "promote", categorie: 'Group', reaction: "👨🏿‍💼" }, async (dest, zk, commandeOptions) => {
+france({ nomCom: "promote", categorie: 'Group', reaction: "👥" }, async (dest, zk, commandeOptions) => {
   let { repondre, msgRepondu, infosGroupe, auteurMsgRepondu, verifGroupe, auteurMessage, superUser, idBot } = commandeOptions;
   let membresGroupe = verifGroupe ? await infosGroupe.participants : ""
   if (!verifGroupe) { return repondre("For groups only"); }
@@ -291,7 +291,7 @@ france({ nomCom: "add", categorie: 'Group', reaction: "👨🏿‍💼" }, async
 		const isImAdmin = await isAdmin(participants, message.client.user.jid)
 		if (!isImAdmin) return await message.send(`_I'm not admin._`)
 		match = match || message.reply_message.jid
-		if (!match) return await message.send('Example : add 254757835036')
+		if (!match) return await message.send('Example : add 254715343733')
 		// if (!match.startsWith('@@')) {
 		// 	match = jidToNum(match)
 		// 	const button = await genButtonMessage(
@@ -698,7 +698,7 @@ france({nomCom:"hidetag",categorie:'Group',reaction:"🎤"},async(dest,zk,comman
         let media  = await zk.downloadAndSaveMediaMessage(msgRepondu.stickerMessage)
 
         let stickerMess = new Sticker(media, {
-          pack: 'FLASH-MD-tag',
+          pack: 'LEN-MD-tag',
           type: StickerTypes.CROPPED,
           categories: ["🤩", "🎉"],
           id: "12345",
@@ -740,7 +740,7 @@ france({nomCom:"hidetag",categorie:'Group',reaction:"🎤"},async(dest,zk,comman
 });
 
 
-france({ nomCom: "apk", reaction: "✨", categorie: "Recherche" }, async (dest, zk, commandeOptions) => {
+france({ nomCom: "apk", reaction: "📯", categorie: "Recherche" }, async (dest, zk, commandeOptions) => {
   const { repondre, arg, ms } = commandeOptions;
 
   try {
