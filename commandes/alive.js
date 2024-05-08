@@ -43,7 +43,7 @@ const date = moment().format('DD/MM/YYYY');
  ${message}
  
  
- *LENNIE-W by Venocyber Admin is alive*`
+ *LEN MD is alive*`
 
  if (lien.match(/\.(mp4|gif)$/i)) {
     try {
