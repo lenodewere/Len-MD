@@ -4,7 +4,7 @@ const { france } = require("../framework/france");
 france({ nomCom: "repo", reaction: "😌", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
 
 
-const githubRepo = 'https://api.github.com/repos/lenodewere/Lennie-W';
+const githubRepo = 'https://api.github.com/repos/lenodewere/Len-MD';
 const img = 'https://telegra.ph/file/758083800a621d384a99b.jpg';
 
 
@@ -22,13 +22,13 @@ const releaseDate = new Date(data.created_at).toLocaleDateString('en-GB');
             const lastUpdateDate = new Date(repoInfo.lastUpdate).toLocaleDateString('en-GB');
 
 const gitdata = `Hello 👋 
-This is *FLASH-MD.* The following is *LENNIE-W's*
+This is *LEN-MD.* The following is *LEN-MD's*
 *REPOSITORY:* ${data.html_url}
 ✨ *STARS:* ${repoInfo.stars}
 🧧 *FORKS:* ${repoInfo.forks}
 📅 *RELEASED:* ${releaseDate}
 🕐 *LAST UPDATED:* ${lastUpdateDate}
-👨‍💻 *OWNER:* *Lenodewere Lennie 🌎🌃*
+👨‍💻 *OWNER:* *Lenox Were*
 🌷 *CONTRIBUTOR:* *Venocyber Tech Admin 🌉🌎*`;
 
 
@@ -42,8 +42,8 @@ console.log("Could not fetch data")
 
 });
 
-   /* let z = 'Hello This is  *LENNIE-W* \n\n ' + "The Following is *LENNIE-W Repo.*";
-    let d = ' https://github.com/lenodewere/Lennie-W';
+   /* let z = 'Hello This is  *LEN-MD* \n\n ' + "The Following is *LEN-MD Repo.*";
+    let d = ' https://github.com/lenodewere/Len-MD';
     let varmess = z + d;
     var img = 'https://telegra.ph/file/758083800a621d384a99b.jpg';
     await zk.sendMessage(dest, { image: { url: img }, caption: varmess });
