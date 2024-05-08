@@ -1,8 +1,8 @@
 {
-  "name": "Lennie W",
-  "description": "I am Lennie W Whatsapp MultiDevice Whatsapp Bot built by Were Lenox\n\t if there be any Problem, Whatsapp Me on: +254715343733",
+  "name": "Len MD",
+  "description": "I am Len MD Whatsapp Multi-Device Whatsapp Bot built by Were Lenox\n\t for queries and issues, Whatsapp Me on: +254715343733",
   "logo": "",
-  "keywords": ["whatsappbot", "giftedlMd", "gifted Md bot", "Gifted-Md", "GiftedMdWhatsappBot", "GiftedWaBot","GiftedMD","Gifted Md Whatsapp Bot","multi device"],
+  "keywords": ["whatsappbot", "lenlMd", "len Md bot", "Len-Md", "LenMdWhatsappBot", "LenWaBot","LenMD","Lennie Md Whatsapp Bot","multi device"],
   "success_url": "/",
   "app_url": "/qr/",
   
@@ -27,12 +27,12 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required" :"false",    
-      "value": "𝘓𝘦𝘯𝘯𝘪𝘦 𝘞"
+      "value": "LEN-MD"
     }, 
     "USER_IMAGES": {
       "description": "Image for bot",
       "required" :false,    
-      "value": "https://telegra.ph/file/01bae0068863f48aff101.jpg,https://telegra.ph/file/db3a5c86c0e3dd11e0071.mp4,https://telegra.ph/file/af1705e9b4d6aa0bc0f96.jpg"
+      "value": "https://telegra.ph/file/01bae0068863f48aff101.jpg"
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
