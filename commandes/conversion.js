@@ -70,7 +70,7 @@ const alea = (ext) => {
     }
 
     sticker = new Sticker(buffer, {
-      pack:"LENNIE-W",
+      pack:"LEN MD",
       author: nomAuteurMessage,
       type:
         arg.includes("crop") || arg.includes("c")
@@ -94,7 +94,7 @@ const alea = (ext) => {
     }
 
     sticker = new Sticker(buffer, {
-      pack:"LENNIE-W", // pack stick
+      pack:"LEN MD", // pack stick
       author:  nomAuteurMessage, // name of the author of the stick
       type:
         arg.includes("-r") || arg.includes("-c")
@@ -252,7 +252,7 @@ france({ nomCom: "write", categorie: "Conversion", reaction: "👨🏿‍💻" }
     // Create the sticker
     const stickerMess = new Sticker(meme, {
       pack: nomAuteurMessage,
-      author: 'LENNIE-W',
+      author: 'LEN MD',
       type: StickerTypes.FULL,
       categories: ["🤩", "🎉"],
       id: "12345",
