@@ -2,4 +2,4 @@ build:
   docker:
       worker: Dockerfile
 run:
-   worker:   npm run lennie-w
+   worker:   npm run len MD
