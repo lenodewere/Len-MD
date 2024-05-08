@@ -3,7 +3,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 const { france } = require("../framework/france");
 france({ nomCom: "tempmail", reaction: "😌", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
     console.log("Commande saisie !!!s");
-    let z = '*LENNIE-W* Temporary emails,Powered by *Venocyber Admin* \n\n ' + "Click the link below to create unlimited TEMPORARY Emails. Powered by *LENNIE-W.*";
+    let z = '*LEN MD* Temporary emails,Powered by *Lenox Were* \n\n ' + "Click the link below to create unlimited TEMPORARY Emails. Powered by *LEN MD.*";
     let d = ' https://tempmailpro.app';
     let varmess = z + d;
     var img = 'https://telegra.ph/file/758083800a621d384a99b.jpg';
