@@ -20,7 +20,7 @@ const runtime = function (seconds) {
 france({ nomCom: 'uptime',
     desc: 'To check runtime',
     Categorie: 'General',
-    reaction: '⚙️', 
+    reaction: '⌚', 
     fromMe: 'true', 
 
 
@@ -28,7 +28,7 @@ france({ nomCom: 'uptime',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*_Uptime of LENNIE-W: ${runtime(process.uptime())}_*`) 
+                 await repondre(`*_Uptime of LEN MD: ${runtime(process.uptime())}_*`) 
 
    
 
