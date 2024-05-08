@@ -10,7 +10,7 @@ RUN apt-get update && \
   rm -rf /var/lib/apt/lists/*
   
 RUN git clone https://github.com/lenodewere/Len MD.git  /root/LenMD
-WORKDIR /root/LennieW/
+WORKDIR /root/LenMD/
 
 
 COPY package.json .
