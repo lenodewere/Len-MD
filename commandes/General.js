@@ -56,11 +56,10 @@ france({ nomCom: "developer", categorie: "General", reaction: "💞" }, async (d
 
     const devs = [
       { nom: "Lenodewere Lennie", numero: "254715343733" },
-      { nom: "᚛Venocyber admin᚜", numero: "255698101622" },
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
-    let message = "👋 *Welcome to Lennie-W!* here is the developer numbers:\n\n";
+    let message = "👋 *Welcome to Len MD!* here is the developer numbers:\n\n";
     for (const dev of devs) {
       message += `----------------\n• ${dev.nom} : https://wa.me/${dev.numero}\n`;
     }
@@ -95,6 +94,6 @@ france({ nomCom: "support", categorie: "General" }, async (dest, zk, commandeOpt
   const { ms, repondre, auteurMessage, } = commandeOptions; 
  
   repondre("look on pm sir ")
-  await zk.sendMessage(auteurMessage,{text : `https://wa.me/255698101622`},{quoted :ms})
+  await zk.sendMessage(auteurMessage,{text : `https://wa.me/254715343733`},{quoted :ms})
 
 })
