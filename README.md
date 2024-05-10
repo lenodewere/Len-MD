@@ -18,7 +18,7 @@
 </p>
    
 <p align="center">
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-Lenox-red.svg?style=for-the-badge&logo=github"></a>
+<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-Lenox.Were-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 
 
@@ -28,7 +28,6 @@
 DEPLOY ON HEROKU 
    
  # USE PAIR CODE IF QR CODE ISN'T WORKING
- `we are currently working on the QR CODE`
 
  `Then`
    - ***Click [`FORK`](https://github.com/lenodewere/Len-MD) and `Star ⭐ Repository` for Courage.***
